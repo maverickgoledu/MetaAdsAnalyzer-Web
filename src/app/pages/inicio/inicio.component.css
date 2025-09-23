@@ -1,0 +1,12 @@
+.inicio-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+h1 {
+  color: #1976d2;
+}
+p {
+  font-size: 1.2em;
+}
